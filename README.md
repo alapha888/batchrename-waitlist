@@ -1,6 +1,6 @@
 # BatchRename (working name) — waitlist validation page
 
-A planned macOS-first desktop app (Windows later as a separate native build): rule-based batch file renaming (text, sequence, regex) plus EXIF/metadata-driven names, live preview of every new name, collision checks, and one-click undo for a whole batch. Planned $24.99 one-time.
+A planned macOS-first desktop app (macOS version built natively in Swift; Windows version later as a separate project using a mature Windows stack): rule-based batch file renaming (text, sequence, regex) plus EXIF/metadata-driven names, live preview of every new name, collision checks, and one-click undo for a whole batch. Planned $24.99 one-time.
 
 - Validation page: https://alapha888.github.io/batchrename-waitlist/
 - Status: product not built. This repo contains only the validation page — no product source code.
